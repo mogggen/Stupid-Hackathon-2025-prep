@@ -3,6 +3,8 @@
 Project:
 SHA256 Collision Generator
 
+Inspiration:
+https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
 
 Resources:
 - [Inverting XORs](https://www.youtube.com/watch?v=XDsYPXRCXAs&t=597s)
@@ -16,6 +18,10 @@ Resources:
 **Input:**
 - Pick a block size to limit search range
 - Plaintext to encrypt
+
+
+**Main Dilemma**:
+Generate random bits for filling in the lost bits. But reduce the amount as far as possible.
 
 
 **Process:**
