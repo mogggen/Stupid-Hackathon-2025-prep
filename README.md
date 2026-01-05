@@ -6,7 +6,7 @@ SHA256 Collision Generator
 
 Resources:
 - [Inverting XORs](https://www.youtube.com/watch?v=XDsYPXRCXAs&t=597s)
-- [XOR_swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm)
+- [XOR swap](https://en.wikipedia.org/wiki/XOR_swap_algorithm)
 - SHA256 algorithm [explanation](https://sha256algorithm.com/)
 - [sha256.js](https://raw.githubusercontent.com/dmarman/sha256algorithm/refs/heads/main/src/classes/sha.js)
 
@@ -28,5 +28,5 @@ Resources:
 **Output:** all the plaintexts that cause collision with the plaintext input
 
 
-**Extra:** Sort by readability (like [dcode](https://dcode.fr/) does
+**Extra:** Sort by readability (like [dcode](https://dcode.fr/) does)
 
