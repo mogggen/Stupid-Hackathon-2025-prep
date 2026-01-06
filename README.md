@@ -5,6 +5,7 @@ SHA256 Collision Generator
 
 Inspiration:
 https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
+SHA256 [31-rounds collision POC](https://gist.githubusercontent.com/killvxk/8fa6a5456069b470b848f0403104bf77/raw/0746834020f03b4ba8d04e63c1afff538f5fa3de/31_round_sha256_poc.py):
 
 Resources:
 - [Inverting XORs](https://www.youtube.com/watch?v=XDsYPXRCXAs&t=597s)
